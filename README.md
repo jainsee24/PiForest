@@ -8,4 +8,4 @@ Cicular Queue
 
 Arduino Real world Set-up
 
-![alt text](https://raw.githubusercontent.com/jainsee24/PiForest/main/Approach/jain10%20(1)-1.jpg)
+![alt text](https://raw.githubusercontent.com/jainsee24/PiForest/main/Approach/jain10-1.jpg)
