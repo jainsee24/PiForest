@@ -1,17 +1,4 @@
-# PiForest
-The authors present the Preprocessed Isolation Forest PiForest approach for anomaly detection that works well in resource constrained environments and is also effective on streaming data.
-Propsed Architecture
-![alt text](https://raw.githubusercontent.com/jainsee24/PiForest/main/Approach/jain3%20(2)-1.jpg)
-
-Cicular Queue
-![alt text](https://raw.githubusercontent.com/jainsee24/PiForest/main/Approach/jain5%20(1)-1.jpg)
-
-Arduino Real world Set-up
-
-![alt text](https://raw.githubusercontent.com/jainsee24/PiForest/main/Approach/jain10-1.jpg)
-
-
-# Piforest 🌲🌲🌲
+# Piforest 🌳🌲🌳🌲
 
 Implementation of the *anomaly detection in resource constrained environments with streaming data* by [jain et al. (2021)](https://ieeexplore.ieee.org/abstract/document/9410461).
 
@@ -66,3 +53,15 @@ If you have used this codebase in a publication and wish to cite it, please use 
   publisher={IEEE}
 }
 ```
+
+# PiForest Working
+The authors present the Preprocessed Isolation Forest PiForest approach for anomaly detection that works well in resource constrained environments and is also effective on streaming data.
+Propsed Architecture
+![alt text](https://raw.githubusercontent.com/jainsee24/PiForest/main/Approach/jain3%20(2)-1.jpg)
+
+Cicular Queue
+![alt text](https://raw.githubusercontent.com/jainsee24/PiForest/main/Approach/jain5%20(1)-1.jpg)
+
+Arduino Real world Set-up
+
+![alt text](https://raw.githubusercontent.com/jainsee24/PiForest/main/Approach/jain10-1.jpg)
